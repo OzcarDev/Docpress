@@ -1,0 +1,24 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Oscar Yair Núñez Hernández",
+        "source": "README.md",
+        "expand": true,
+        "url": "index.html",
+        "slug": "index"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Oscar Yair Núñez Hernández",
+      "pageTitle": "Oscar Yair Núñez Hernández",
+      "slug": "index"
+    }
+  },
+  "sources": {
+    "README.md": "index.html"
+  }
+}
